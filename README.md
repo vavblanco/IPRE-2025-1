@@ -11,7 +11,7 @@ Implementar un sistema de medición de humedad y temperatura utilizando el entor
 + Sensor de Temperatura NTC Subterráneo
   - Motivo: Registrar temperatura del suelo.
   - Precio Referencial: $1,641 [altronics.cl](https://altronics.cl/electronics-products/accesorios-arduino/temp-3950-ntc), $4,290 [Mercado Libre](https://www.mercadolibre.cl/kit-de-modulo-de-sensor-de-temperatura-ds18b20-para-arduino/up/MLCU322909051)
-  - Datasheet:[DS18B20](https://www.analog.com/media/en/technical-documentation/data-sheets/ds18b20.pdf)
+  - Datasheet: [DS18B20](https://www.analog.com/media/en/technical-documentation/data-sheets/ds18b20.pdf)
 + Sensor de Humedad Subterránea
   - Motivo: Registrar humedad del suelo.
   - Precio Referencial: $2,569  [altronics.cl](https://altronics.cl/sensor-humedad-suelo-yl-69), $2,490 [Mercado Libre](https://articulo.mercadolibre.cl/MLC-435163707-modulo-sensor-humedad-suelo-yl-38-yl-69-arduino-pic-max--_JM)
