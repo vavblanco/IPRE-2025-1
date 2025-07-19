@@ -16,6 +16,10 @@ Implementar un sistema de medición de humedad y temperatura utilizando el entor
   - Motivo: Registrar humedad del suelo.
   - Precio Referencial: $2,569  [altronics.cl](https://altronics.cl/sensor-humedad-suelo-yl-69), $2,490 [Mercado Libre](https://articulo.mercadolibre.cl/MLC-435163707-modulo-sensor-humedad-suelo-yl-38-yl-69-arduino-pic-max--_JM)
   - Datasheet: [YL-69](https://www.electronicoscaldas.com/datasheet/YL-69-HL-69.pdf)
++ Sensor de Dióxido de Carbono
+  - Motivo: Medir concentraciones de eCO2 y TVOC (Ver si usar o no). 
+  - Precio Referencial:
+  - Datasheet:
 + Módulo Reloj de Tiempo DS3231 
   - Motivo: Registrar la hora exacta y fecha de cada medición.
   - Precio Referencial: $4,385 [altronics.cl](https://altronics.cl/modulo-reloj-tiempo-real-rtc-DS3231-AT24C32?search=Reloj%20de%20Tiempo), $5,490 [Mercado Libre](https://articulo.mercadolibre.cl/MLC-435662100-modulo-i2c-rtc-ds3231-con-bateria-y-eeprom-arduino-max--_JM)
