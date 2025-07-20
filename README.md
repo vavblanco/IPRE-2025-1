@@ -14,7 +14,7 @@ Implementar un sistema de medición de humedad y temperatura utilizando el entor
   - Datasheet: [DS18B20](https://www.analog.com/media/en/technical-documentation/data-sheets/ds18b20.pdf)
 + Sensor de Humedad Subterránea YL-69 ó Capacitivo
   - Motivo: Registrar humedad del suelo.
-  - Precio Referencial: $2.569  [(altronics.cl - YL69)](https://altronics.cl/sensor-humedad-suelo-yl-69); $2.490 [(Mercado Libre - YL69)](https://articulo.mercadolibre.cl/MLC-435163707-modulo-sensor-humedad-suelo-yl-38-yl-69-arduino-pic-max--_JM) y $2.776 [(altronics.cl - Capacitivo)](https://altronics.cl/sensor-humedad-suelo-capacitivo); [(Mercado Libre - Capacitivo)](https://articulo.mercadolibre.cl/MLC-614813016-sensor-capacitivo-de-humedad-de-suelo-proyectos-arduino-pic-_JM)
+  - Precio Referencial: $2.569  [(altronics.cl - YL69)](https://altronics.cl/sensor-humedad-suelo-yl-69); $2.490 [(Mercado Libre - YL69)](https://articulo.mercadolibre.cl/MLC-435163707-modulo-sensor-humedad-suelo-yl-38-yl-69-arduino-pic-max--_JM) y $2.776 [(altronics.cl - Capacitivo)](https://altronics.cl/sensor-humedad-suelo-capacitivo); $5.390 [(Mercado Libre - Capacitivo)](https://articulo.mercadolibre.cl/MLC-614813016-sensor-capacitivo-de-humedad-de-suelo-proyectos-arduino-pic-_JM)
   - Datasheet: [YL-69](https://www.electronicoscaldas.com/datasheet/YL-69-HL-69.pdf)
 + Sensor de Dióxido de Carbono CCS811
   - Motivo: Medir concentraciones de eCO2 y TVOC (Ver si usar o no). 
